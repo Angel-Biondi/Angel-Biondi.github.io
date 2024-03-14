@@ -1,0 +1,80 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+
+/*identificado de CSS*/
+#titulo_principal{
+    color:magenta;
+    padding: 15px;
+}
+p{
+    color: #457b9d;
+}
+h2{
+    color: darkslateblue;
+    padding: 15px;
+
+}
+.contenedor{
+    border: 10px solid blueviolet;
+    background-color:thistle;
+    text-align: center;
+    margin: 10px 160px;
+    padding: 15px;
+}
+.titulo{
+    color: #f72585;
+}
+ul{
+    overflow: hidden;
+    background-color:whitesmoke;
+    height: 20px;
+
+}
+ul li a {
+    text-align: center;
+    margin: 10px 160px;
+    padding: 4px;
+    justify-content: end;
+}
+
+li a{
+    background-color: seagreen;
+    color: orange;
+    text-decoration: none;
+    text-align: center;
+    height: 30px;
+    
+    
+}
+.glass{
+    border: 10px solid seagreen;
+    width: 10%;
+    background-color:thistle;
+    text-align: center;
+    margin: 10px 400px;
+    padding: 4px;
+}
+
+
+li{
+    
+    text-align: center;
+}
+li a:hover{
+
+color: #f72585;
+
+}
+.menu ul{
+
+    background-color:whitesmoke;
+    height: 60px;
+}
+a{
+    text-decoration: none;
+}
+
